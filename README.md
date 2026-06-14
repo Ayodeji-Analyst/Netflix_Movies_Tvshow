@@ -34,6 +34,7 @@ The raw dataset required several cleaning steps before analysis could begin:
 	•	content_type: derived from the existing type column to distinguish Movies vs. TV Shows.
 	•	year_added: extracted from date_added for time-series trend analysis.
 	•	primary_country: extracted the first listed country for simplified country-level analysis.
+![Project Screenshot](577bb1f9-abcc-4a3a-a9af-c631b00fc536.jpeg)
 
 ![Dashboard Screenshot](37811423-e604-4193-bb89-ad3c2a0c1c3a.jpeg)
 
