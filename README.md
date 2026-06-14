@@ -42,7 +42,3 @@ The raw dataset required several cleaning steps before analysis could begin:
 	•	The majority of Netflix content is rated TV-MA, suggesting the platform skews toward adult audiences.
 	•	The United States and India are the two dominant content-producing countries, with India showing rapid growth in recent years.
 	•	Movies make up roughly 70% of the total catalog, with TV Shows accounting for the remaining 30%.
-
-
-	![Dashboard Preview](dashboard.png)
-
