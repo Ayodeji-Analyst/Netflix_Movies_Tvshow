@@ -1,4 +1,8 @@
 # Netflix_Movies_Tvshow
+
+
+444ee31c-dc0e-43f4-b91e-6a880525b945.jpeg
+
 🎬 Netflix Movies &amp; TV Show Trend and Performance Analysis
 📌 Project Overview
 This project explores the Netflix content library to uncover trends in content type, ratings, genres, country of origin, and how Netflix’s catalog has evolved over time. The final output is an interactive dashboard built in Power BI that allows filtering by Movies and TV Shows.
