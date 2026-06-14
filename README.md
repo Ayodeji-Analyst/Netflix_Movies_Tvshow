@@ -35,6 +35,8 @@ The raw dataset required several cleaning steps before analysis could begin:
 	•	year_added: extracted from date_added for time-series trend analysis.
 	•	primary_country: extracted the first listed country for simplified country-level analysis.
 
+![Dashboard Screenshot](37811423-e604-4193-bb89-ad3c2a0c1c3a.jpeg)
+
 🛠️ Tools & Technologies
 	•	Excel for Data cleaning and transformation
 	•	Power BI for Dashboard design and visualization
